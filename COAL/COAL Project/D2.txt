@@ -1,0 +1,7 @@
+press 1 for starters, 2 for main course, 3 for dessert, 4 for drinks, 5 for sides, 6 to terminate
+
+how many starters do you want?
+enter starter option number
+enter quantity
+do you want to add any more starters?
+do you want to add more menu items?
